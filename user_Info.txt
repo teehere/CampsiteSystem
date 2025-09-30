@@ -1,0 +1,7 @@
+A001|admin|Admin123123|admin
+U001|John|Abc12345|user
+A002|admin2|Asdf12345|admin
+A003|qqq|Aa123456|admin
+U002|Ashley|Ashley123|user
+U003|John2|Abc123123|user
+A004|admin3|Admin123456|admin

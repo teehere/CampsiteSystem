@@ -1,0 +1,50 @@
+Cameron Highlands|Tent|Ogawa 66R Tent|520.0|5
+Cameron Highlands|Tent|Premium Series Air Tent|568.0|2
+Cameron Highlands|Tent|Tulip OW Tent|600.0|3
+Cameron Highlands|Tent|Tunnel Tent|568.0|4
+Cameron Highlands|Cabin|Rainforest Retreat Cabin|750.0|4
+Cameron Highlands|Cabin|Tea Plantation View Cabin|850.0|6
+Cameron Highlands|Cabin|Mossy Forest Cabin|920.0|4
+Cameron Highlands|Glamping|Strawberry Fields Glamp|680.0|2
+Cameron Highlands|Glamping|Misty Mountain Glamping|780.0|2
+Langkawi|Glamping|Sunset Beach Glamping|850.0|2
+Langkawi|Glamping|Private Island Glamping|1200.0|2
+Langkawi|RV Site|Beachfront RV Spot|600.0|6
+Langkawi|RV Site|Mangrove View RV Park|550.0|4
+Langkawi|Tent|Beachside Tent|350.0|2
+Langkawi|Tent|Jungle Canopy Tent|420.0|2
+Langkawi|Cabin|Pantai Cenang Beach Cabin|850.0|4
+Langkawi|Cabin|Sunset Cove Cabin|950.0|2
+Langkawi|Cabin|Private Beachfront Chalet|1200.0|6
+Langkawi|Cabin|Rainforest Canopy Cabin|780.0|2
+Langkawi|Cabin|Mangrove View Cabin|700.0|4
+Langkawi|Cabin|Mountain Peak Cabin|1100.0|4
+Taman Negara|Tent|Canopy Rainforest Tent|350.0|2
+Taman Negara|Tent|Riverside Explorer Tent|400.0|4
+Taman Negara|Tent|Rainforest Explorer Tent|180.0|2
+Taman Negara|Tent|Riverside Safari Tent|220.0|4
+Taman Negara|Cabin|Canopy Tree Cabin|420.0|3
+Taman Negara|Cabin|Tahan Hideaway Lodge|380.0|6
+Taman Negara|Glamping|Jungle Sky Pod|900.0|2
+Taman Negara|Glamping|Belum Rainforest Dome|680.0|2
+Taman Negara|Glamping|Rainforest Bubble Tent|750.0|2
+Tioman Island|Tent|Coral Bay Beach Tent|450.0|2
+Tioman Island|Tent|Juara Turtle Beach Tent|500.0|2
+Tioman Island|Cabin|Tekek Beachfront Chalet|1100.0|4
+Tioman Island|Cabin|Tekek Beach Wooden Chalet|550.0|4
+Tioman Island|Cabin|Juara Turtle Cabin|480.0|6
+Tioman Island|Glamping|Overwater Transparent Bubble|1800.0|2
+Tioman Island|Glamping|Monkey Bay Luxury Safari Tent|1200.0|2
+Genting Highlands|Tent|Cloud Forest Camp|500.0|4
+Genting Highlands|Cabin|Alpine Wooden Cabin|550.0|6
+Genting Highlands|Cabin|Mountain View Log Cabin|950.0|6
+Genting Highlands|Cabin|Mossy Forest Retreat|650.0|4
+Genting Highlands|Glamping|Skyway Glass Pod|980.0|2
+Genting Highlands|Glamping|Misty Mountain Bubble|850.0|2
+Genting Highlands|RV Site|Genting Highlands RV Park|400.0|8
+Perhentian Islands|Tent|Long Beach Basic Camp|300.0|2
+Perhentian Islands|Tent|Coral Garden Dive Camp|400.0|2
+Perhentian Islands|Cabin|Rainforest Beach Hut|800.0|4
+Perhentian Islands|Cabin|Turtle Beach Chalet|450.0|6
+Perhentian Islands|Glamping|Moonlight Bay Luxury Tent|1100.0|2
+Perhentian Islands|Glamping|Dynamic Glamping Luxury Tent|680.0|3

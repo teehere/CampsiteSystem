@@ -1,0 +1,13 @@
+2025-08-01|Cameron Highlands|Tent|Ogawa 52R Tent|Broken tent pole
+2024-06-02|Cameron Highlands|Cabin|Rainforest Retreat Cabin|Air conditioner not working
+2025-08-03|Langkawi|Glamping|Private Island Glamping|Water leakage in bathroom
+2025-01-04|Langkawi|RV Site|Beachfront RV Spot|Electricity outage
+2023-07-05|Taman Negara|Tent|Riverside Explorer Tent|Mosquito net torn
+2025-08-06|Taman Negara|Glamping|Jungle Sky Pod|WiFi not available
+2025-05-07|Tioman Island|Cabin|Tekek Beach Wooden Chalet|Broken window
+2022-09-08|Tioman Island|Glamping|Monkey Bay Luxury Safari Tent|Insufficient lighting
+2025-04-09|Genting Highlands|Tent|Cloud Forest Camp|Damaged camping table
+2023-02-10|Genting Highlands|Glamping|Skyway Glass Pod|Glass panel cracked
+2025-07-11|Perhentian Islands|Cabin|Rainforest Beach Hut|Leaking roof
+2022-12-12|Perhentian Islands|Glamping|Moonlight Bay Luxury Tent|Broken zipper on tent
+2025-09-12|Taman Negara|Glamping|Rainforest Bubble Tent|Broken Zipper

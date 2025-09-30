@@ -1,0 +1,7 @@
+U002|Langkawi|RV Site|Beachfront RV Spot|9000.0|5|2025-10-12|2025-10-15
+U002|Langkawi|Cabin|Mangrove View Cabin|6300.0|3|2025-12-12|2025-12-15
+U002|Perhentian Islands|Tent|Long Beach Basic Camp|3000.0|2|2025-10-10|2025-10-15
+U003|Taman Negara|Tent|Canopy Rainforest Tent|1400.0|2|2025-11-11|2025-11-13
+U003|Tioman Island|Glamping|Overwater Transparent Bubble|14400.0|2|2025-12-11|2025-12-15
+U001|Langkawi|Tent|Jungle Canopy Tent|2520.0|2|2025-09-09|2025-09-12
+U001|Taman Negara|Tent|Riverside Safari Tent|1320.0|3|2025-12-12|2025-12-14
